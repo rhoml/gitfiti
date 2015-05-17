@@ -149,7 +149,8 @@ IMAGES = {
 'octocat2':OCTOCAT2,
 'hello':HELLO,
 'hireme':HIREME,
-'oneup_str':ONEUP_STR
+'oneup_str':ONEUP_STR,
+'sre':SRE,
 }
 
 def load_images(img_names):
